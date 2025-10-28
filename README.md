@@ -31,13 +31,8 @@
 2. Run `npm install`
 3. (Optional) Create a `.env` file and configure any API keys if needed
 4. Start the app:
-
-   ```bash
-   npm start       # for port 3000
-   # or
-   npm run dev     # default Vite port 5173
-   ```
-5. Open http://localhost:5173 
+   npm start       
+5. Open [http://localhost:5173](http://localhost:5173)
 ---
 
 ## AI Assistance
