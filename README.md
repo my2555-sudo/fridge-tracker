@@ -56,9 +56,27 @@ In this project 7, I used ChatGPT (GPT-5) to help structure and refine my projec
 
 ## Screenshots
 
-| Dashboard                               | Expiring Items                        |
-| --------------------------------------- | ------------------------------------- |
-| ![Dashboard](screenshots/dashboard.png) | ![Expiring](screenshots/expiring.png) |
+Below are the main pages of my Smart Fridge Tracker web app:
+
+<p align="center">
+  <h3>🧊 Home Dashboard</h3>
+  <img src="public/screenshot.png" width="600"/>
+</p>
+
+<p align="center">
+  <h3>🍳 Recipe Suggestions</h3>
+  <img src="public/screenshot2.png" width="600"/>
+</p>
+
+<p align="center">
+  <h3>🥗 Lists of Food in the Fridge</h3>
+  <img src="public/screenshot3.png" width="600"/>
+</p>
+
+<p align="center">
+  <h3>📊 Waste Analytics Dashboard</h3>
+  <img src="public/screenshot4.png" width="600"/>
+</p>
 
 ---
 

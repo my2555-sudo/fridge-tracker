@@ -23,14 +23,15 @@ dist-ssr
 *.sln
 *.sw?
 
-# Ignore optional files not needed for grading
-src/assets/
-src/stats.ts
-src/types.ts
-src/index.css
-src/main.jsx
+# # Ignore optional files not needed for grading
+# src/assets/
+# src/stats.ts
+# src/types.ts
+# src/index.css
+# src/main.jsx
 
-# Tooling configs (not required for grading)
-vite.config.ts
-package-lock.json
-eslint.config.js
+# # Tooling configs (not required for grading)
+# vite.config.js
+# package-lock.json
+# eslint.config.js
+# index.html
